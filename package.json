@@ -4,8 +4,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/dpak1999/rn-countdown-timer"
   },
+  "homepage": "https://github.com/dpak1999/rn-countdown-timer",
   "author": {
     "name": "Deepak Kumar Dash",
     "email": "dpak_99@hotmail.com"
