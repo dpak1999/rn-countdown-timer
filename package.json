@@ -1,0 +1,22 @@
+{
+  "name": "@dpak1999/rn-countdown-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "Deepak Kumar Dash",
+    "email": "dpak_99@hotmail.com"
+  },
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prop-types": "^15.8.1",
+    "react": "^19.1.0",
+    "react-native": "^0.79.3",
+    "sprintf-js": "^1.1.3"
+  }
+}
