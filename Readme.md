@@ -6,7 +6,7 @@ All credit go to original [author](https://github.com/talalmajali/).
 
 ## Installation
 
-Run `npm install react-native-countdown-component --save` OR `yarn add react-native-countdown-component --save`
+Run `npm install @dpak1999/rn-countdown-timer --save` OR `yarn add @dpak1999/rn-countdown-timer --save`
 
 ## Props
 
@@ -35,7 +35,7 @@ Run `npm install react-native-countdown-component --save` OR `yarn add react-nat
 ## Code
 
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from '@dpak1999/rn-countdown-timer';
 
 render() {
     return (
@@ -56,7 +56,7 @@ render() {
 ## Code
 
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from '@dpak1999/rn-countdown-timer';
 
 render() {
     return (
@@ -80,7 +80,7 @@ render() {
 ## Code
 
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from '@dpak1999/rn-countdown-timer';
 
 render() {
     return (
