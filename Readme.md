@@ -1,5 +1,7 @@
 # Note
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/dpak1999/rn-countdown-timer?utm_source=oss&utm_medium=github&utm_campaign=dpak1999%2Frn-countdown-timer&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 THIS IS A PACKAGE FROM https://www.npmjs.com/package/react-native-countdown-component . Because of bugs this does not work with RN v74+ and there are no maintainers, hence the package is a fork and fixed version. 
 
 All credit go to original [author](https://github.com/talalmajali/).
