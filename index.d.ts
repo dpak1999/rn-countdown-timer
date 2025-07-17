@@ -93,6 +93,12 @@ export interface CountDownProps {
    * @default true
    */
   running?: boolean;
+
+  /**
+   * A boolean to support stopwatch mode if true,
+   * @default false
+   */
+  runForward?: boolean;
 }
 
 export interface CountDownState {
