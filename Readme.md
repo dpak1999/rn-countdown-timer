@@ -16,10 +16,10 @@ Run `npm install @dpak1999/rn-countdown-timer --save` OR `yarn add @dpak1999/rn-
 | :------------- | :----------------------------------------------------------- | :----- | :-------------------------------------------------------------------------------------: |
 | id             | Counter id, to determine whether to reset the counter or not | string |                                          null                                           |
 | style          | Override the component style                                 | object |                                           {}                                            |
-| digitStyle     | Digit style                                                  | object | {backgroundColor: ![#FAB913](https://placehold.it/15/FAB913/000000?text=+) `'#FAB913'`} |
-| digitTxtStyle  | Digit Text style                                             | object |       {color: ![#FAB913](https://placehold.it/15/000000/000000?text=+) `'#000'`}        |
-| timeLabelStyle | Time Label style                                             | object |       {color: ![#FAB913](https://placehold.it/15/000000/000000?text=+) `'#000'`}        |
-| separatorStyle | Separator style                                              | object |       {color: ![#FAB913](https://placehold.it/15/000000/000000?text=+) `'#000'`}        |
+| digitStyle     | Digit style                                                  | object | {backgroundColor:`'#FAB913'`} |
+| digitTxtStyle  | Digit Text style                                             | object |       {color: `'#000'`}        |
+| timeLabelStyle | Time Label style                                             | object |       {color:`'#000'`}        |
+| separatorStyle | Separator style                                              | object |       {color:`'#000'`}        |
 | size           | Size of the countdown component                              | number |                                           15                                            |
 | until          | Number of seconds to countdown                               | number |                                            0                                            |
 | onFinish       | What function should be invoked when the time is 0           | func   |                                          null                                           |
@@ -29,6 +29,7 @@ Run `npm install @dpak1999/rn-countdown-timer --save` OR `yarn add @dpak1999/rn-
 | timeLabels     | Text to show in time label                                   | object |                   {d: 'Days', h: 'Hours', m: 'Minutes', s: 'Seconds'}                   |
 | showSeparator  | Should show separator                                        | bool   |                                          false                                          |
 | running        | a boolean to pause and resume the component                  | bool   |                                          true                                           |
+| runForward        | A boolean to support stopwatch mode if true                  | bool   |                                          false                                           |
 
 ## Preview
 
